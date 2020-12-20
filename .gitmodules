@@ -1,3 +1,3 @@
 [submodule "SAATIWEB"]
-    path = SAATIWEB/
-    url = https://github.com/DanZerodox/saati_web.git
+    path = SAATIWEB
+    url = https://gitlab.com/DanZerodox/sa_fe.git
